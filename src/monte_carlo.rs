@@ -1,4 +1,4 @@
-extern crate ndarray_rand;
+
 use ndarray::prelude::*; // Import the most used types, functions, etc.
 use ndarray_rand::rand_distr::Uniform;
 use ndarray_rand::RandomExt;
